@@ -1,0 +1,15 @@
+extends layout
+
+block content
+	.container
+		.row
+			.col
+				h1 News
+		.row
+			-for(let news in data)
+				.col-4.item
+					h2=data[news].title
+					h6 $ #{data[news].price}
+					figure
+						img.img-fluid(src=data[news].img)
+					p=data[news].desc

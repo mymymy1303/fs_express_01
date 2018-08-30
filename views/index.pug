@@ -1,8 +1,19 @@
 extends layout
 
 block content
-	h1= title
+	h1= data.title
 	figure
-		img(src="./img/logo.png", alt="")
-	p Welcome to #{title}
+		img(src=data.img, alt="")
+	p= data.desc
+	ul
+		- for(let x=0; x<data.list.length; x++)
+			li
+				if x== 1
+					a(href="javascript:void(0)") #{data.list[x]} 123
+				else
+					a(href="javascript:void(0)") #{data.list[x]}
 	
+	- for(let x=0; x<data.news.length; x++)
+		.item
+			h2=data.news[x].name
+			p=data.news[x].desc

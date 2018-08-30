@@ -1,0 +1,24 @@
+{
+	"data": {
+		"news": [
+			{
+				"title": "Huy",
+				"desc": "dsfsdfds fsdfsdfdsf dsfsdfsdfsdf",
+				"img": "https://images.pexels.com/photos/160933/girl-rabbit-friendship-love-160933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+				"price": 69696
+			},
+			{
+				"title": "Bao",
+				"desc": "dsfsdfds fsdfsdfdsf dsfsdfsdfsdf",
+				"img": "https://images.pexels.com/photos/33479/balloon-heart-love-romance.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+				"price": 69696
+			},
+			{
+				"title": "Bao",
+				"desc": "dsfsdfds fsdfsdfdsf dsfsdfsdfsdf",
+				"img": "https://images.pexels.com/photos/256737/pexels-photo-256737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+				"price": 69696
+			}
+		]
+	}
+}

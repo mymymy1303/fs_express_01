@@ -1,0 +1,22 @@
+{
+	"data": {
+		"title": "Huy",
+		"desc": "dsfsdfds fsdfsdfdsf dsfsdfsdfsdf",
+		"img": "https://lh3.googleusercontent.com/OzI3PhAjH3VeiM9bujPuESTRs4JcaEDufdl5h55WXPL3i_gzu4wi7PsFiqU-kCoGWAsRa784eLjQfyDeoZnZ2ZQKHKAxmMDFZK0eUvzn=s660",
+		"list": [
+			"huy",
+			"bao",
+			"nhut"
+		],
+		"news": [
+			{
+				"name": "asdasdasdadasd",
+				"desc": "asdadddddddddddddddddd"
+			},
+			{
+				"name": "123123123123123",
+				"desc": "rrrrrrrrr12333333333333"
+			}
+		]
+	}
+}
